@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-oct-2015, 8:29:24
+    Author     : alumno
+*/
+
+aside {
+  display: inline-block;
+  width: 10%;
+  background-color: yellow;
+  margin: 0;
+}
+
+section {
+  display: inline-block;
+  width: 85%;
+  margin: 0;
+  margin-left: 3%;
+  vertical-align: top;
+  text-align: center;
+}
+
+aside a {
+  display:block;
+  margin: 0.5em;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+}
+
+table {
+  margin: auto;
+  margin-top: 3em;
+  font-size: 1.5em;
+  background-color: yellow;
+}
+
+td, th {
+  padding: 0.3em;
+}
